@@ -1,0 +1,15 @@
+drop table FAVORITE_PATH;
+drop table FAVORITE_TRAIN;
+drop table TICKET;
+drop table DS_LINKS;
+drop table TRAIN;
+drop table PASSENGER;
+drop table TOKENS;
+drop table ORDER_TABLE;
+drop table DESTPOINT;
+drop table ROUTE;
+drop table DOC_TYPE;
+drop table ORDER_STATUS;
+drop table USER_TABLE;
+drop table TRAIN_TYPE;
+drop table NOTIFICATION;

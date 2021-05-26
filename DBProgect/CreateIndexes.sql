@@ -1,0 +1,8 @@
+create index TOKENS_TOKEN
+    on TOKENS(TOKEN, USERID);
+
+create index PASSENGER_USERID
+    on PASSENGER(USERID);
+
+create index TICKET_USERID
+    on TICKET(ORDERID);
